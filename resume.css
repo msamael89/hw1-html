@@ -1,0 +1,7 @@
+/* resume details */
+
+.summary {
+    list-style-type:none;
+    background-color: rgb(197, 197, 207);
+    text-emphasis-color: rgb(202, 235, 13);
+}
